@@ -9,7 +9,7 @@
 ## Demo
 
 GitHub Pages:
-https://hutimisu.github.io/meal-suggest
+[https://hutimisu.github.io/meal-suggest](https://github.com/hutimisu-source/meal-suggest)
 
 ## Features
 
