@@ -9,7 +9,7 @@
 ## Demo
 
 GitHub Pages:
-https://ユーザー名.github.io/meal-suggest-web/
+https://ユーザー名.github.io/meal-suggest
 
 ## Features
 
