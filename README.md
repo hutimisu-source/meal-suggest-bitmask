@@ -8,8 +8,8 @@
 
 ## Demo
 
-GitHub Pages:  
-https://hutimisu.github.io/meal-suggest
+[GitHub Pages:  
+https://hutimisu.github.io/meal-suggest](https://github.com/hutimisu-source/meal-suggest)
 
 ## Features
 
