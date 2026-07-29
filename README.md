@@ -9,7 +9,7 @@
 ## Demo
 
 GitHub Pages:  
-https://hutimisu.github.io/meal-suggest/
+https://hutimisu.github.io/meal-suggest
 
 ## Features
 
@@ -64,4 +64,3 @@ https://hutimisu.github.io/meal-suggest/
 
 ブラウザで表示されたURL（例：`http://127.0.0.1:5500/`）にアクセスしてください。
 
-※ GitHub Pages 上では通常どおり動作します。
